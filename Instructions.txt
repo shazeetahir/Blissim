@@ -1,0 +1,4 @@
+Instructions : 
+1. Lancer le script SQL pour récupérer les données
+2. Dans le reperatoire TEST-BLISSIM, installer les dependencies avec : composer install
+3. Depuis le reperatoire test lancer le projet avec : symfony server:start
